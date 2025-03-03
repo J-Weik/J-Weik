@@ -14,4 +14,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j-weik&theme=tokyonight&hide_border=false" alt="j-weik" /></p><br>
 
 <h3 align="left">:writing_hand: Random Dev Quote:</h3>
-(https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight
